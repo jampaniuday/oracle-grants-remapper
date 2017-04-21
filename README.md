@@ -3,6 +3,9 @@
 ``Oracle Grants Remmaper`` si collega ad una istanza oracle sorgente e crea un file ``.sql`` per la rigenerazione di grants i sinonimi da applicare su una istanza oracle di destinazione.
 In base al file di configurazione passato come argomento, Oracle Grants Remmaper sostituisce i nomi degli schemi con quelli definiti nel file.
 
+Configurazione
+---
+
 Il file di configurazione ha un formato simile a questo:
 
 ```
